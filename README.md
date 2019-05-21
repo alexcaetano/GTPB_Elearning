@@ -54,26 +54,99 @@ So far we produced e-learning content for four themes hosted by the GTPB. Below 
    
        - Origin - Online [Python 3 - An Introductory Tutorial](https://rawgit.com/BioinformaticsTraining/Critical-Guides/gh-pages/HTML/Python_Bits.html#Section-XI) course, Section XI (yet in construction by David Philip Judge)
    
-      - [Learning object content]( - It contains:
-
+       - [Learning object content](https://github.com/alexcaetano/GTPB_Elearning/blob/master/SCORMs/loops_module.zip) - It contains a standalone module with:
+       
+             - Prerequisites section
+        
+             - Syntax section
+        
+             - Practical examples to try out
+        
+             - Self-assessment section
+        
+             - Sum-up of topics introduced
+        
+      - Component elements:
+      
                    - .mp4 video format
             
-                   - some text 
+                   - text 
                    
                    - accordion elements (collapsible content) 
             
                    - multiple choice questions
 
     
-       - Tool - [Adapt Authoring Tool](https://www.adaptlearning.org/)
+       - Tool used - [Adapt Authoring Tool](https://www.adaptlearning.org/)
        
-       - 
+        
+     - **Proteomics Data Analysis**
+     
+     
+       -Origin - [PDA19](https://gtpb.github.io/PDA19/) Github webpage 
        
+     - [Learning object content](https://github.com/alexcaetano/GTPB_Elearning/blob/master/SCORMs/proteomics_overview.zip) - It contains the overview of the course:
+     
+                   - Course instructors section
+                   
+                   - Course description section
+                   
+                   - Target audience section
+                   
+                   - Prerequisites section
+        
+      - Component elements:
+      
+                   - hot graphic (use of images as pins)
+            
+                   - text 
+                   
+                   - hyperlinks to youtube videos
+
+    
+       - Tool used - [Adapt Authoring Tool](https://www.adaptlearning.org/) 
       
       
-  
+      
+      
+      - **Computational Pangenomics**
+     
+     
+       -Origin - [CPANG18](https://github.com/GTPB/CPANG18/blob/master/index.md) Github webpage 
+       
+     - [Learning object content](https://github.com/alexcaetano/GTPB_Elearning/blob/master/SCORMs/pangenomics_overview.zip) - It contains the overview of the course:
+     
+                   - Course instructors section
+                   
+                   - Course description section
+                   
+                   - Target audience section
+                   
+                   - Course methodology section
+                   
+                   - Learning objectives section
+        
+      - Component elements:
+      
+                   - hot graphic (use of images as pins)
+            
+                   - text 
+                   
+                   - accordion elements (collapsible content)
+                   
+                   - images
+
+    
+       - Tool used - [Adapt Authoring Tool](https://www.adaptlearning.org/) 
 
 
+
+      - **Research Data Management**
+
+This course is being created by Rutger Vos in collaboration with the GTPB team. 
+It consists of a experiment to create Shareable Content Objects using different softwares ([see here](https://github.com/naturalis/markdown2scorm), with the aim to integrate them in the LMS, maintaining the intended structure. This need was recognized by the necessity of, for example, convert markdown to SCORM, since the majority of the GTPB courses are built in markdown. 
+
+It was chosen to create the self-assessment quizzes in The Adapt Authoring tool. You can download the resulting SCORM [in here](https://github.com/alexcaetano/GTPB_Elearning/blob/master/SCORMs/data_management_assessment.zip) an upload it to the LMS of preference.
 
 
 
