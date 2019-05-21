@@ -28,9 +28,10 @@ For a more comprehensive reference about the benefits of using a SCORM you can a
 
 
 
+
 - **The SCORMs produced**
 
- For experimental purposes we aimed to explore as many different strategies as possible.
+ For experimental purposes we aimed to explore as many different strategies as possible, namely:
  
       [x] Develop e-learning content from scratch
       
@@ -38,13 +39,33 @@ For a more comprehensive reference about the benefits of using a SCORM you can a
       
       [x] Develop e-learning content from an online course website in html
       
-  And as many as tools as possible
+  And experimented with some different resources to accomplish our goal. For instance:
   
-      [x] Producing SCORMs through Adapt Authoring Tool
+      [x] Producing SCORMs using Adapt Authoring Tool
       
-      [x] Producing SCORMs through other software tools
+      [x] Producing SCORMs using other software tools
       
       [x] Importing SCORMs to a Learning Management System (LMS), in particular Moodle Cloud
+      
+
+So far we produced e-learning content for four themes hosted by the GTPB. Below you can find a detailed description of what you will find in each output (i.e. SCORM).
+
+   - **Loops**
+   
+   - Origin - Online [Python3](https://rawgit.com/BioinformaticsTraining/Critical-Guides/gh-pages/HTML/Python_Bits.html#Section - XI: Repeated Elements --- Loops) course, Section XI (yet in construction by David Philip Judge)
+   - Learning object content - It contains:
+   
+            - a video in .mp4 format,
+            
+            - some text, 
+            
+            - accordion elements (collapsible content), 
+            
+            - a quiz for self-assessment
+
+    
+      
+      
       
   
 
