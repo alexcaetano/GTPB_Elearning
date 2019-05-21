@@ -36,11 +36,17 @@ For a more comprehensive reference about the benefits of using a SCORM you can a
       
       [x] Develop e-learning content based in F2F courses
       
+      [x] Develop e-learning content from an online course website in html
+      
   And as many as tools as possible
   
       [x] Producing SCORMs through Adapt Authoring Tool
       
       [x] Producing SCORMs through other software tools
+      
+      [x] Importing SCORMs to a Learning Management System (LMS), in particular Moodle Cloud
+      
+  
 
 
 
