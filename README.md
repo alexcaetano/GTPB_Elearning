@@ -6,7 +6,12 @@ These experiments were inspired by the [GOBLET/ELIXIR-EXCELERATE Workshop on e-l
 Currently, we are focusing in the Development phase of the ADDIE Model for Instructional Design, particularly in Building Learning Objects.
 
 
+
+
+
 **Building Learning Objects and Shareable Content Object Reference Model (SCORM)**
+
+
 
 - **Why is it important to develop scorm contents?**
 
