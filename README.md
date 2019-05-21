@@ -1,4 +1,4 @@
-**The GTPB e-Learning project**
+**Beginner level efforts in e-Learning for GTPB content**
 
 This repository accumulates the results of a series of experiments performed at the ELIXI-PT node, while working in the e-learning subtask of the WP11: ELIXIR Training Programme of the EXCELERATE project (2015-2019). ELIXIR-EXCELERATE is funded by the European Commission within the Research Infrastructures programme of Horizon 2020, grant agreement number 676559.
 
