@@ -52,19 +52,23 @@ So far we produced e-learning content for four themes hosted by the GTPB. Below 
 
    - **Loops**
    
-   - Origin - Online [Python 3 - An Introductory Tutorial](https://rawgit.com/BioinformaticsTraining/Critical-Guides/gh-pages/HTML/Python_Bits.html#Section-XI) course, Section XI (yet in construction by David Philip Judge)
-   - Learning object content - It contains:
+       - Origin - Online [Python 3 - An Introductory Tutorial](https://rawgit.com/BioinformaticsTraining/Critical-Guides/gh-pages/HTML/Python_Bits.html#Section-XI) course, Section XI (yet in construction by David Philip Judge)
    
-            - a video in .mp4 format,
+      - [Learning object content]( - It contains:
+
+                   - .mp4 video format
             
-            - some text, 
+                   - some text 
+                   
+                   - accordion elements (collapsible content) 
             
-            - accordion elements (collapsible content), 
-            
-            - a quiz for self-assessment
+                   - multiple choice questions
 
     
-      
+       - Tool - [Adapt Authoring Tool](https://www.adaptlearning.org/)
+       
+       - 
+       
       
       
   
