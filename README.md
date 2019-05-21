@@ -10,11 +10,11 @@ Currently, we are focusing in the Development phase of the ADDIE Model for Instr
 
 - **Why is it important to develop scorm contents?**
 
-    • To be able to reuse contents
+      • To be able to reuse contents
     
-    • To be able to share contents to other LMS
+      • To be able to share contents to other LMS
     
-    • To be able to share performance results from participants
+      • To be able to share performance results from participants
     
 
 For a more comprehensive reference about what is a SCORM and how it works you can access: [here](https://scorm.com/scorm-explained/) and [here](https://scorm.com/scorm-explained/scorm-resources/scorm-cookbook/) or [here](https://scorm.com/wp-content/assets/cookbook/CookingUpASCORM_v1_2.pdf).
@@ -26,11 +26,15 @@ For a more comprehensive reference about the benefits of using a SCORM you can a
 - **The SCORMs produced**
 
  For experimental purposes we aimed to explore as many different strategies as possible.
+ 
       [x] Develop e-learning content by scratch
+      
       [x] Develop e-learning content based in F2F courses
       
   And as many as tools as possible
+  
       [x] Producing SCORMs through Adapt Authoring Tool
+      
       [x] Producing SCORMs through other software tools
 
 
