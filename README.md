@@ -21,8 +21,11 @@ Our aim is to gain experience in producing content using SCORMs, while evaluatin
     
 
 For a more comprehensive reference about what a SCORM is and how it works you can explore several online resources: 
+
 [SCORM explained](https://scorm.com/scorm-explained/) 
+
 [the Cookbook](https://scorm.com/scorm-explained/scorm-resources/scorm-cookbook/) 
+
 [and specific to v1.2](https://scorm.com/wp-content/assets/cookbook/CookingUpASCORM_v1_2.pdf).
 
 For a more comprehensive reference about the benefits of using a SCORM you can [explore](https://scorm.com/scorm-explained/business-of-scorm/benefits-of-scorm/)
