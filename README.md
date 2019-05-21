@@ -52,7 +52,7 @@ So far we produced e-learning content for four themes hosted by the GTPB. Below 
 
    - **Loops**
    
-   - Origin - Online [Python3](https://rawgit.com/BioinformaticsTraining/Critical-Guides/gh-pages/HTML/Python_Bits.html#Section - XI: Repeated Elements --- Loops) course, Section XI (yet in construction by David Philip Judge)
+   - Origin - Online [Python3](https://rawgit.com/BioinformaticsTraining/Critical-Guides/gh-pages/HTML/Python_Bits.html#Section-XI:RepeatedElements---Loops) course, Section XI (yet in construction by David Philip Judge)
    - Learning object content - It contains:
    
             - a video in .mp4 format,
