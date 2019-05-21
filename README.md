@@ -34,7 +34,7 @@ For a more comprehensive reference about the benefits of using a SCORM you can a
  
       [x] Develop e-learning content from scratch
       
-      [x] Develop e-learning content based on the documentatioo rrom F2F courses
+      [x] Develop e-learning content based on the documentatioo from F2F courses
       
       [x] Develop e-learning content from an online course website in html
       
