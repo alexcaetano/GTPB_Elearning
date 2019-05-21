@@ -26,7 +26,7 @@ For a more comprehensive reference about what a SCORM is and how it works you ca
 
 [the Cookbook](https://scorm.com/scorm-explained/scorm-resources/scorm-cookbook/) 
 
-[and specific to v1.2](https://scorm.com/wp-content/assets/cookbook/CookingUpASCORM_v1_2.pdf).
+[A SCORM 1.2 Content Cookbook for Developers](https://scorm.com/wp-content/assets/cookbook/CookingUpASCORM_v1_2.pdf).
 
 For a more comprehensive reference about the benefits of using a SCORM you can [explore](https://scorm.com/scorm-explained/business-of-scorm/benefits-of-scorm/)
 
