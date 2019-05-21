@@ -28,7 +28,6 @@ For a more comprehensive reference about the benefits of using a SCORM you can a
 
 
 
-
 - **The SCORMs produced**
 
  For experimental purposes we aimed to explore as many different strategies as possible, namely:
@@ -52,40 +51,45 @@ So far we produced e-learning content for four themes hosted by the GTPB. Below 
 
    - **Loops**
    
-       - Origin - Online [Python 3 - An Introductory Tutorial](https://rawgit.com/BioinformaticsTraining/Critical-Guides/gh-pages/HTML/Python_Bits.html#Section-XI) course, Section XI (yet in construction by David Philip Judge)
    
-       - [Learning object content](https://github.com/alexcaetano/GTPB_Elearning/blob/master/SCORMs/loops_module.zip) - It contains a standalone module with:
+            - Origin - Online [Python 3 - An Introductory Tutorial](https://rawgit.com/BioinformaticsTraining/Critical-Guides/gh-pages/HTML/Python_Bits.html#Section-XI) course, Section XI (yet in construction by David Philip Judge)
+            
+   
+              - [Learning object content](https://github.com/alexcaetano/GTPB_Elearning/blob/master/SCORMs/loops_module.zip) - It contains a standalone module with:
        
-             - Prerequisites section
+                    - Prerequisites section
         
-             - Syntax section
+                    - Syntax section
         
-             - Practical examples to try out
+                    - Practical examples to try out
         
-             - Self-assessment section
+                    - Self-assessment section
         
-             - Sum-up of topics introduced
+                    - Sum-up of topics introduced
         
-      - Component elements:
+        
+        
+             - Component elements:
       
-                   - .mp4 video format
+                    - .mp4 video format
             
-                   - text 
+                    - text 
                    
-                   - accordion elements (collapsible content) 
+                    - accordion elements (collapsible content) 
             
-                   - multiple choice questions
+                     - multiple choice questions
 
     
        - Tool used - [Adapt Authoring Tool](https://www.adaptlearning.org/)
        
         
-     - **Proteomics Data Analysis**
+   - **Proteomics Data Analysis**
      
      
-       -Origin - [PDA19](https://gtpb.github.io/PDA19/) Github webpage 
+            -Origin - [PDA19](https://gtpb.github.io/PDA19/) Github webpage 
+            
        
-     - [Learning object content](https://github.com/alexcaetano/GTPB_Elearning/blob/master/SCORMs/proteomics_overview.zip) - It contains the overview of the course:
+            - [Learning object content](https://github.com/alexcaetano/GTPB_Elearning/blob/master/SCORMs/proteomics_overview.zip) - It contains the overview of the course:
      
                    - Course instructors section
                    
@@ -94,8 +98,11 @@ So far we produced e-learning content for four themes hosted by the GTPB. Below 
                    - Target audience section
                    
                    - Prerequisites section
+                   
+                   
         
-      - Component elements:
+             - Component elements:
+             
       
                    - hot graphic (use of images as pins)
             
@@ -104,7 +111,7 @@ So far we produced e-learning content for four themes hosted by the GTPB. Below 
                    - hyperlinks to youtube videos
 
     
-       - Tool used - [Adapt Authoring Tool](https://www.adaptlearning.org/) 
+             - Tool used - [Adapt Authoring Tool](https://www.adaptlearning.org/) 
       
       
       
@@ -112,9 +119,10 @@ So far we produced e-learning content for four themes hosted by the GTPB. Below 
       - **Computational Pangenomics**
      
      
-       -Origin - [CPANG18](https://github.com/GTPB/CPANG18/blob/master/index.md) Github webpage 
+             -Origin - [CPANG18](https://github.com/GTPB/CPANG18/blob/master/index.md) Github webpage 
+             
        
-     - [Learning object content](https://github.com/alexcaetano/GTPB_Elearning/blob/master/SCORMs/pangenomics_overview.zip) - It contains the overview of the course:
+             - [Learning object content](https://github.com/alexcaetano/GTPB_Elearning/blob/master/SCORMs/pangenomics_overview.zip) - It contains the overview of the course:
      
                    - Course instructors section
                    
@@ -125,8 +133,10 @@ So far we produced e-learning content for four themes hosted by the GTPB. Below 
                    - Course methodology section
                    
                    - Learning objectives section
+                   
         
-      - Component elements:
+             - Component elements:
+             
       
                    - hot graphic (use of images as pins)
             
@@ -137,16 +147,16 @@ So far we produced e-learning content for four themes hosted by the GTPB. Below 
                    - images
 
     
-       - Tool used - [Adapt Authoring Tool](https://www.adaptlearning.org/) 
+            - Tool used - [Adapt Authoring Tool](https://www.adaptlearning.org/) 
 
 
 
-      - **Research Data Management**
+     - **Research Data Management**
 
 This course is being created by Rutger Vos in collaboration with the GTPB team. 
-It consists of a experiment to create Shareable Content Objects using different softwares ([see here](https://github.com/naturalis/markdown2scorm), with the aim to integrate them in the LMS, maintaining the intended structure. This need was recognized by the necessity of, for example, convert markdown to SCORM, since the majority of the GTPB courses are built in markdown. 
+It consists of a experiment to create Shareable Content Objects using different softwares [(see here)](https://github.com/naturalis/markdown2scormhere), with the aim to integrate them in the LMS, maintaining the intended structure. This need was recognized by the necessity of, for example, convert markdown to SCORM, since the majority of the GTPB courses are built in markdown. 
 
-It was chosen to create the self-assessment quizzes in The Adapt Authoring tool. You can download the resulting SCORM [in here](https://github.com/alexcaetano/GTPB_Elearning/blob/master/SCORMs/data_management_assessment.zip) an upload it to the LMS of preference.
+It was chosen to create the self-assessment quizzes in The Adapt Authoring tool. You can download the resulting SCORM [in here](https://github.com/alexcaetano/GTPB_Elearning/blob/master/SCORMs/data_management_assessment.zip) and upload it to the LMS of preference.
 
 
 
