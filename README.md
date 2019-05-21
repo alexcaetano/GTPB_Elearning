@@ -86,7 +86,7 @@ So far we produced e-learning content for four themes hosted by the GTPB. Below 
    - **Proteomics Data Analysis**
      
      
-        -Origin - [PDA19](https://gtpb.github.io/PDA19/) Github webpage 
+        - Origin - [PDA19](https://gtpb.github.io/PDA19/) Github webpage 
             
        
         - [Learning object content](https://github.com/alexcaetano/GTPB_Elearning/blob/master/SCORMs/proteomics_overview.zip) - It contains the overview of the course:
@@ -119,7 +119,7 @@ So far we produced e-learning content for four themes hosted by the GTPB. Below 
    - **Computational Pangenomics**
      
      
-        -Origin - [CPANG18](https://github.com/GTPB/CPANG18/blob/master/index.md) Github webpage 
+        - Origin - [CPANG18](https://github.com/GTPB/CPANG18/blob/master/index.md) Github webpage 
              
        
         - [Learning object content](https://github.com/alexcaetano/GTPB_Elearning/blob/master/SCORMs/pangenomics_overview.zip) - It contains the overview of the course:
