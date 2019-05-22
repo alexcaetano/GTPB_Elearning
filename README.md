@@ -1,6 +1,6 @@
 **Beginner level efforts in e-Learning for GTPB content**
 
-This repository accumulates the results of a series of experiments performed at the ELIXI-PT node, while working in the e-learning subtask of the WP11: ELIXIR Training Programme of the EXCELERATE project (2015-2019). ELIXIR-EXCELERATE is funded by the European Commission within the Research Infrastructures programme of Horizon 2020, grant agreement number 676559.
+This repository accumulates the results of a series of experiments performed at the ELIXIR-PT node, while working in the e-learning subtask of the WP11: ELIXIR Training Programme of the EXCELERATE project (2015-2019). ELIXIR-EXCELERATE is funded by the European Commission within the Research Infrastructures programme of Horizon 2020, grant agreement number 676559.
 
 These experiments consist of trying to build interoperable e-learning materials using the ADDIE Model for Instructional Design
 as sggested at the GOBLET/ELIXIR-EXCELERATE Workshop on e-learning hosted by the Instituto Gulbenkian de Ciência (IGC) in November 2017. The talk presented by Sara Petiz [GOBLET/ELIXIR-EXCELERATE Workshop on e-learning](https://github.com/alexcaetano/GTPB_Elearning/blob/master/GOBLET_ELIXIR_Workshop_elearning_SaraPetiz_21112017.pdf) brought us in contact with design issues and ways of developing materials, allowing us to play with some of the tools.
@@ -23,11 +23,12 @@ Our aim is to gain experience in producing content using SCORMs, while evaluatin
 For a more comprehensive reference about what a SCORM is and how it works you can explore several online resources: 
 
 
-[the SCORM Cookbook](https://scorm.com/scorm-explained/scorm-resources/scorm-cookbook/) 
+[The SCORM Cookbook](https://scorm.com/scorm-explained/scorm-resources/scorm-cookbook/) 
 
 [A deeper dive into SCORM](https://scorm.com/scorm-explained/) 
 
 [A SCORM 1.2 Content Cookbook for Developers](https://scorm.com/wp-content/assets/cookbook/CookingUpASCORM_v1_2.pdf).
+
 
 For a more comprehensive reference about the benefits of using a SCORM you can [explore this link](https://scorm.com/scorm-explained/business-of-scorm/benefits-of-scorm/)
 
@@ -41,7 +42,7 @@ For a more comprehensive reference about the benefits of using a SCORM you can [
       
       [x] Develop e-learning content based on the documentation from F2F courses
       
-      [x] Develop e-learning content from an online course website in html
+      [x] Develop e-learning content from an online course website built in html
       
   And experimented with some different resources to accomplish our goal. For instance:
   
@@ -82,7 +83,7 @@ So far we produced e-learning content for four themes from courses hosted by the
                    
                     - accordion elements (collapsible content) 
             
-                     - multiple choice questions
+                    - multiple choice questions
 
     
        - Tool used - [Adapt Authoring Tool](https://www.adaptlearning.org/)
@@ -107,7 +108,6 @@ So far we produced e-learning content for four themes from courses hosted by the
                    
         
         - Component elements:
-             
       
                    - hot graphic (use of images as pins)
             
@@ -141,7 +141,6 @@ So far we produced e-learning content for four themes from courses hosted by the
                    
         
         - Component elements:
-             
       
                    - hot graphic (use of images as pins)
             
@@ -160,7 +159,7 @@ So far we produced e-learning content for four themes from courses hosted by the
 
 This course is being created by Rutger Vos in collaboration with the GTPB team. 
 
-The experiment is an attempt to use a conversion tool that uses the lib2scorm  [Markdown to SCORM](https://github.com/naturalis/markdown2scorm). Nowadays, the majority of the GTPB course materials is developed using Markdown using GitHub. With this method we expect to be able convert existing material with some automation.
+The experiment is an attempt to use a conversion tool that uses the lib2scorm  [Markdown to SCORM](https://github.com/naturalis/markdown2scorm). Nowadays, the majority of the GTPB course materials is developed in Markdown using GitHub. With this method we expect to be able to convert existing material with some automation.
 
 The Adapt Authoring tool was chosen to create the self-assessment quizzes. You can download the resulting  [SCORM](https://github.com/alexcaetano/GTPB_Elearning/blob/master/SCORMs/data_management_assessment.zip) and upload it to the LMS of your preference.
 
